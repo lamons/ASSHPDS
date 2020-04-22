@@ -1,2 +1,2 @@
 # ASSHPDS
-a.k.a. A Simple Self-hosted Podcast Development Solution
+a.k.a. A Simple Self-hosted Podcast Deployment Solution
