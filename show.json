@@ -1,0 +1,20 @@
+{
+	"title": "告别摄影",
+	"link": "https://byebye.photography",
+	"description": "像谈论一场电影一样谈论摄影",
+	"author": {
+		"name": "蔡骁、甜食",
+		"email": "hi@byebye.photography"
+	},
+	"logo": {
+		"url": "cover/logo.png",
+		"title": "告别摄影",
+		"link": "https://byebye.photography"
+	},
+	"language": "zh",
+	"itunes-category": {
+		"cat1": "Arts",
+		"cat2": "Visual Arts"
+	},
+	"host-address": "http://bbp.test/"
+}
